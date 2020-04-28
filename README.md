@@ -1,2 +1,2 @@
 # netlifyproject
-Project 6 webb 234
+Project 6 web 234
